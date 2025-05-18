@@ -1,5 +1,5 @@
 
-```markdown
+
 # Magic Predictor: Age, Gender, and Emotion Detection from Images
 
 
