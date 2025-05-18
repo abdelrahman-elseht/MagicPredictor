@@ -4,7 +4,8 @@ __pycache__/
 *$py.class
 
 
-*.h5
+kaggle_age_model.h5
+kaggle_gender_model.h5
 
 
 
