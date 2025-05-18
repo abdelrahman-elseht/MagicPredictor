@@ -52,10 +52,13 @@ It emphasizes:
 ```
 
 magic\_predictor\_app/
+
 ├── models/                 # Pre-trained model files (.h5)
+
 │   ├── kaggle\_age\_model.h5
 │   ├── kaggle\_gender\_model.h5
 │   └── expressions.h5
+
 ├── assets/                # Static image assets
 │   └── magic\_header-1680x462.jpg
 ├── app/                   # Core application code
