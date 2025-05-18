@@ -7,6 +7,8 @@ models/
 *.h5
 test.bin
 
+Notebooks/
+*.ipynb
 # C extensions
 *.so
 
