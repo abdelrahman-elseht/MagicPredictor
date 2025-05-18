@@ -3,14 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-models/
+
 *.h5
 test.bin
 
-Notebooks/
-*.ipynb
-# C extensions
-*.so
+
 
 # Distribution / packaging
 .Python
